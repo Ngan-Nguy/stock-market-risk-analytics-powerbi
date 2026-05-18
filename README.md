@@ -16,5 +16,10 @@ Power BI · DAX · data modelling · financial analytics
 - `DV_Stock_Price_Movements_Trading_Trends_Sentiment_Risk_Analytics.pbix` — Power BI report
   (open with Power BI Desktop)
 
-## Author
-Ngan Nguyen — Business Intelligence & Data Analytics student, Algonquin College
+## Authors
+Team project by:
+- **Ngan Nguyen**
+- **Duc Anh Ngo**
+- **DongHwan Won**
+
+Business Intelligence & Data Analytics students, Algonquin College
